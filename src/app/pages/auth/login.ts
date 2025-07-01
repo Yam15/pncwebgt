@@ -146,7 +146,7 @@ export class Login {
     }
 
     ingresar(){
-    
+    this.router.navigate(['/pages/empty']);
       
     }
     
